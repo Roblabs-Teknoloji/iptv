@@ -10,10 +10,10 @@ VLC, TiviMate veya M3U destekleyen oynatıcınızda şu adresi kullanın:
 
 ## Kapsam ve güncellik
 
-Liste, [iptv-org'un Türkçe kanal akış listesindeki](https://iptv-org.github.io/iptv/languages/tur.m3u) 720p ve üzeri olduğu belirtilen kanallardan hazırlandı. Geo-blocked veya 7/24 yayın yapmadığı işaretlenen akışları ve tanınmayan üçüncü taraf sunucuları dışarıda bıraktım. TRT Spor'un yayıncının TRT alan adındaki 720p adresi de eklidir.
+Listenin ana kaynağı [iptv-org'un Türkçe kanal akış listesidir](https://iptv-org.github.io/iptv/languages/tur.m3u). 720p ve üzeri yayınların yanına uygun kaynağı bulunan daha düşük çözünürlüklü akışlar da eklenmiştir; bunlar listede çözünürlükleriyle işaretlidir. TGRT Belgesel ve TV Den yayınları kesintili olabileceği için bu durum adlarında belirtilir. Sözcü TV, yayıncının resmî YouTube canlı adresi üzerinden eklenmiştir.
 
-Bu koşulları karşılayan 73 akış var. Bu sayı dünyada yayın yapan her Türkçe kanalı kapsadığı anlamına gelmez: tüm kanalların herkese açık, sürekli ve en az 720p canlı yayını bulunmuyor. Ücretli veya DRM korumalı servislerin yayınları listede yer almaz. Yayıncılar adresleri değiştirebilir ya da ülke kısıtlaması uygulayabilir; akışların çalışması ve çözünürlüğü zamanla değişebilir.
+Listede şu anda 76 giriş bulunuyor. Bu sayı dünyada yayın yapan her Türkçe kanalı kapsadığı anlamına gelmez. Ücretli/DRM korumalı yayınlar, coğrafi kısıtlamayı aşan bağlantılar ve kaynağı belirsiz üçüncü taraf sunucular eklenmez. Yayıncılar adresleri değiştirebilir veya ülke kısıtlaması uygulayabilir; çözünürlük ve erişilebilirlik zamanla değişebilir.
 
 ## Katkı
 
-Yeni bir akış eklerken kanalın resmî canlı yayın sayfasını ve en az 1280×720 çözünürlük bilgisini belirtin. DRM, coğrafi kısıtlamayı aşma veya erişim anahtarı gerektiren bağlantılar eklemeyin.
+Yeni bir akış eklerken kanalın resmî canlı yayın sayfasını ve kaynakta belirtilen çözünürlüğü paylaşın. DRM, coğrafi kısıtlamayı aşma veya erişim anahtarı gerektiren bağlantılar eklemeyin.
